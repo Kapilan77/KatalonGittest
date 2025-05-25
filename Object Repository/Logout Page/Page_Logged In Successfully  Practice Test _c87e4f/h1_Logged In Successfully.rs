@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>h1_Logged In Successfully</name>
+   <tag></tag>
+   <elementGuidId>a6a122b8-a05b-48f5-b4c8-c01af62100b7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='loop-container']/div/article/div/h1</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>h1.post-title</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=heading[name=&quot;Logged In Successfully&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>h1</value>
+      <webElementGuid>f7788344-22e9-478d-8db0-8fbcf44255ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>post-title</value>
+      <webElementGuid>37dcfe31-fc26-430a-9daa-8e8107522c75</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Logged In Successfully</value>
+      <webElementGuid>c2c4692d-ab36-46a6-af82-8d30871119df</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;loop-container&quot;)/div[@class=&quot;post-257 page type-page status-publish hentry entry&quot;]/article[1]/div[@class=&quot;post-header&quot;]/h1[@class=&quot;post-title&quot;]</value>
+      <webElementGuid>39ea82d2-5a81-4edb-bd59-2d723d4e0d80</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='loop-container']/div/article/div/h1</value>
+      <webElementGuid>d65d6f88-63a0-413b-a7b8-b678ae5e554d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='open menu'])[1]/following::h1[1]</value>
+      <webElementGuid>d5941435-2ae3-4dd8-8420-7059da0c1c5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Contact'])[1]/following::h1[1]</value>
+      <webElementGuid>c51ac456-6b1d-47f9-ac5e-e435e039409a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Congratulations student. You successfully logged in!'])[1]/preceding::h1[1]</value>
+      <webElementGuid>c2ff93a6-53a1-41ee-99c5-4841ff293463</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Log out'])[1]/preceding::h1[1]</value>
+      <webElementGuid>c21b5d96-6caa-40d4-9ca2-a488c74962cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Logged In Successfully']/parent::*</value>
+      <webElementGuid>03621540-530a-40b9-a3b1-e12f77809263</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//h1</value>
+      <webElementGuid>9e0ceb2a-d704-4c20-afa9-9163881f06e1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//h1[(text() = 'Logged In Successfully' or . = 'Logged In Successfully')]</value>
+      <webElementGuid>a084417d-417c-49b4-ace7-d83b3558e793</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

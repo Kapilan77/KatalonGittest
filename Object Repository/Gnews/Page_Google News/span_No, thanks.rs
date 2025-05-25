@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_No, thanks</name>
+   <tag></tag>
+   <elementGuidId>9f49f3ac-feb2-4fad-81e5-33820f0a2267</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//body[@id='yDmH0d']/div[13]/div[2]/div/div[2]/div/div/div/button/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>button.VfPpkd-LgbsSe.VfPpkd-LgbsSe-OWXEXe-dgl2Hf.ksBjEc.lKxP2d.LQeN7.NXq6ed.c7kuu.CcTene.ZqhUjb.ztUP4e.tHCKTc.dHeVVb.w0hkKb.VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc.VfPpkd-ksKsZd-mWPk3d > span.VfPpkd-vQzf8d</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;No, thanks&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>efcb691c-9c0f-47fc-9c02-83f5f0f966db</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>jsname</name>
+      <type>Main</type>
+      <value>V67aGc</value>
+      <webElementGuid>f0d87d64-000d-4f64-bd8c-026b3850f1b3</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>VfPpkd-vQzf8d</value>
+      <webElementGuid>72987357-4378-467a-aa44-3235e48c4492</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>No, thanks</value>
+      <webElementGuid>e898c60d-5019-4229-b0dd-809ec7101d54</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;yDmH0d&quot;)/div[@class=&quot;VfPpkd-Sx9Kwc cC1eCc UDxLd PzCPDd SGcMTe VfPpkd-Sx9Kwc-OWXEXe-FNFY6c&quot;]/div[@class=&quot;VfPpkd-wzTsW&quot;]/div[@class=&quot;VfPpkd-P5QLlc&quot;]/div[@class=&quot;VfPpkd-T0kwCb&quot;]/div[@class=&quot;i15yh&quot;]/div[@class=&quot;YOnsCc waNn5b&quot;]/div[@class=&quot;VfPpkd-dgl2Hf-ppHlrf-sM5MNb&quot;]/button[@class=&quot;VfPpkd-LgbsSe VfPpkd-LgbsSe-OWXEXe-dgl2Hf ksBjEc lKxP2d LQeN7 NXq6ed c7kuu CcTene ZqhUjb ztUP4e tHCKTc dHeVVb w0hkKb VfPpkd-ksKsZd-mWPk3d-OWXEXe-Tv8l5d-lJfZMc VfPpkd-ksKsZd-mWPk3d&quot;]/span[@class=&quot;VfPpkd-vQzf8d&quot;]</value>
+      <webElementGuid>4320b7e6-10ce-49b6-b4b8-2ed4895ea2b1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//body[@id='yDmH0d']/div[13]/div[2]/div/div[2]/div/div/div/button/span</value>
+      <webElementGuid>55a9df3a-2c44-4d8e-a34c-a5ecd2c1eee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Dark theme'])[1]/following::span[1]</value>
+      <webElementGuid>0880d309-da33-44f0-b73b-e8aa506f29b8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='No, thanks']/parent::*</value>
+      <webElementGuid>bc83087c-9f6c-4942-8fa3-9f901bd4ac9e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/button/span</value>
+      <webElementGuid>f783d82b-5fc0-4469-89a6-bbb31d8ba3fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'No, thanks' or . = 'No, thanks')]</value>
+      <webElementGuid>6878d891-4e90-49a4-a4f2-b4d508bd201b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
