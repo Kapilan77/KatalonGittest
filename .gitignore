@@ -16,9 +16,12 @@ build
 .project
 
 .cache
+<<<<<<< HEAD
 /bin/
 /Libs/
 /.settings/
 /.classpath
 .svn/
 .cache/
+=======
+>>>>>>> branch 'master' of https://github.com/Kapilan77/KatalonGittest.git
